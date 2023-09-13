@@ -1,4 +1,5 @@
-const API_URL = process.env.VUE_APP_API_URL;
+const API_URL =
+  '4f0207073a7b0827364e79964c2950473faecef2721cf18dd748b942d0e64272';
 
 const tickerHandlers = new Map();
 const currenciesToBTC = new Map();
